@@ -1,0 +1,6 @@
+train: D:\\Bappy\\Office\\Live-Session\\Project-Batch-1\\Industry-Safety-Detection-using-Yolov7\\train.txt
+val: D:\\Bappy\\Office\\Live-Session\\Project-Batch-1\\Industry-Safety-Detection-using-Yolov7\\val.txt
+
+nc: 5
+names: ['Helmet', 'Goggles', 'Jacket', 'Gloves', 'Footwear']
+
